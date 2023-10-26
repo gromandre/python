@@ -1,1 +1,2 @@
-print('hello str')
+print('hello')
+print('it's me')
